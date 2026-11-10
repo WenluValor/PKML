@@ -1,4 +1,4 @@
 # PKML
 Physics-informed kernel machine learning
 
-Run exe.py
+Run each file's main function.
