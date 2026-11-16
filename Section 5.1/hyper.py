@@ -1,5 +1,5 @@
 """
-KRR: lambda = 3e-7, lengthscale=0.2
+KRR: lambda = 1e-6, lengthscale=0.2
 PINN: PINN
 n	lr	epochs	lambda_pde
 8000	0.01	3000	1
