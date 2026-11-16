@@ -118,8 +118,7 @@ class KRR:
 ############################################
 def default_lam_grid():
     # Broad RBF-baseline grid; lambda is not on the DE-kernel scale.
-    return np.unique(np.concatenate([np.logspace(-14, -1, 14),
-                                     3 * np.logspace(-12, -5, 8)]))
+    return np.unique(np.concatenate([np.logspace(-14, -1, 14)]))
 
 
 def default_ls_grid():
